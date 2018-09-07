@@ -1,0 +1,14 @@
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\NumberWorderNetCore.deps.json
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\NumberWorderNetCore.runtimeconfig.json
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\NumberWorderNetCore.runtimeconfig.dev.json
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\NumberWorderNetCore.dll
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\NumberWorderNetCore.pdb
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\ClassLibrary.dll
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\bin\Debug\netcoreapp2.0\ClassLibrary.pdb
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.csprojAssemblyReference.cache
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.csproj.CoreCompileInputs.cache
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.AssemblyInfoInputs.cache
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.AssemblyInfo.cs
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.csproj.CopyComplete
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.dll
+c:\users\xusan\source\repos\NumberWorder\NumberWorderNetCore\obj\Debug\netcoreapp2.0\NumberWorderNetCore.pdb
